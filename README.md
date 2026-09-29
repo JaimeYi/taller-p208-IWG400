@@ -7,7 +7,7 @@ Para poder ejecutar correctamente el proyecto se debe crear un ambiente virtual,
 pip install django
 ```
 ## Ejecución del proyecto
-Se debe ingresar en la carpeta `test4/` (la idea es que la terminal se encuentre en el mismo directorio donde se encuentra el archivo manage.py), para posteriormente ejecutar el siguiente comando:
+Se debe ingresar en la carpeta `kernel/` (la idea es que la terminal se encuentre en el mismo directorio donde se encuentra el archivo manage.py), para posteriormente ejecutar el siguiente comando:
 ```
 python manage.py runserver
 ```
